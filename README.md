@@ -1,2 +1,2 @@
-# crucigrama
+# Crucigrama
 Creador de crucigramas
